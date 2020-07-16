@@ -1,5 +1,8 @@
 _repo: Atkozott-jozansag_62620
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 62620-h/images/cover.jpg
 creator:
   author:
     agent_name: Gárdonyi, Géza
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41300
     wikipedia: https://hu.wikipedia.org/wiki/G%C3%A1rdonyi_G%C3%A9za
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62620#Atkozott-jozansag
 gutenberg_issued: '2020-07-11'
 gutenberg_type: Text
 identifiers:
